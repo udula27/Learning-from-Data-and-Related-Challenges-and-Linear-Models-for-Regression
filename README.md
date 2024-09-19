@@ -1,2 +1,2 @@
 # Learning-from-Data-and-Related-Challenges-and-Linear-Models-for-Regression
-Training a linear regression model and evaluating its' performance based on key metrics to understand the basics of linear regression.
+In this report, I dive into some of the basic concepts of linear regression. From discussing data pre-processing such as scaling to training a simple linear regression model by utilizing libraries from  [scikit-learn](https://scikit-learn.org/stable/), the report explores the use of linear regression to make accurate predictions.
